@@ -1,0 +1,91 @@
+
+
+PriorityQueue add elements --->
+
+add -> Ravi
+Queue: 
+      | Ravi |
+
+add -> Vijay
+Queue: 
+      | Ravi  |
+      | Vijay |
+
+add -> Kamal
+Queue: 
+      | Kamal |
+      | Vijay |
+      | Ravi  |
+
+add -> Aniruth
+Queue: 
+      | Aniruth |
+      |  Kamal  |
+      |  Ravi   |
+      |  Vijay  |
+
+add -> Ravi
+Queue: 
+      | Aniruth |
+      |  Kamal  |
+      |  Ravi   |
+      |  Vijay  |
+      |  Ravi   |
+
+add -> Simbu
+Queue: 
+      | Aniruth |
+      |  Kamal  |
+      |  Ravi   |
+      |  Vijay  |
+      |  Ravi   |
+      |  Simbu  |
+
+add -> Dhanush
+Queue: 
+      | Aniruth |
+      |  Kamal  |
+      | Dhanush |
+      |  Vijay  |
+      |  Ravi   |
+      |  Simbu  |
+      |  Ravi   |
+
+Initial list of elements: [Aniruth, Kamal, Dhanush, Vijay, Ravi, Simbu, Ravi]
+
+Priority Queue values after addition of 'Vishal': [Aniruth, Kamal, Dhanush, Vijay, Ravi, Simbu, Ravi, Vishal]
+
+Integers stored in reverse order of priority in a Priority Queue: [4, 3, 2, 1]
+
+
+PriorityQueue remove elements ---> 
+
+remove() method: [Dhanush, Kamal, Ravi, Vijay, Ravi, Simbu, Vishal]
+
+poll() method: [Kamal, Ravi, Ravi, Vijay, Vishal, Simbu]
+
+
+PriorityQueue methods ---> 
+
+Latest element using element():Kamal
+
+Latest element using peek():Kamal
+
+Max element: 4
+
+Min element: 1
+
+Comparator value is: io.github.collections.queue.Priorityqueue$CustomIntegerComparator@1f32e575
+
+If Vishal is present in the queue? true
+
+
+Ways to iterate the PriorityQueue elements --->
+
+Iterating the pQueue elements:
+Kamal
+Ravi
+Ravi
+Vijay
+Vishal
+Simbu
