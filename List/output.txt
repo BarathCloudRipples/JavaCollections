@@ -1,0 +1,40 @@
+
+
+LinkedList add elements --->
+
+Returning second element: Apple
+
+Iterating the Initial List element
+Mango
+Dates
+Banana
+Grapes
+
+
+Converting Array to List --->
+
+Printing Array: [Java, Python, PHP, C++]
+
+Printing List: [Java, Python, PHP, C++]
+
+
+Converting List to Array --->
+
+Printing Array: [C++, Java, PHP, Python]
+
+Printing List: [C++, Java, PHP, Python]
+
+
+Ways to iterate the List elements --->
+
+Traversing elements in forward direction:
+list[0]: Mango
+list[1]: Dates
+list[2]: Banana
+list[3]: Grapes
+
+Traversing elements in backward direction:
+list[3]: Grapes
+list[2]: Banana
+list[1]: Dates
+list[0]: Mango

@@ -1,0 +1,66 @@
+
+
+ArrayList add elements --->
+
+Initial list of elements: [Ravi, Vijay, Ravi, Arjun]
+
+add(int index, E element) method: [Ravi, Ajith, Vijay, Ravi, Arjun]
+
+addAll(Collection<? extends E> c) method: [Ravi, Ajith, Vijay, Ravi, Arjun, Karthick, Aniruth]
+
+addAll(int index, Collection<? extends E> c) method: [Ravi, Kamal, Simbu, Ajith, Vijay, Ravi, Arjun, Karthick, Aniruth]
+
+add(E e) method for User-defined class: [io.github.collections.Entity.Employee@6ff3c5b5, io.github.collections.Entity.Employee@3764951d]
+
+
+ArrayList remove elements ---> 
+
+remove(vijay) method: [Ravi, Kamal, Simbu, Ajith, Ravi, Arjun, Karthick, Aniruth]
+
+remove(0) method: [Kamal, Simbu, Ajith, Ravi, Arjun, Karthick, Aniruth]
+
+removeAll() method: [Ajith, Ravi, Arjun, Karthick, Aniruth]
+
+removeIf() method: [Ajith, Ravi, Karthick, Aniruth]
+
+
+ArrayList methods ---> 
+
+The size of the arrayList is: 4
+
+Returning element[1]: Ravi
+
+Sorted ArrayList: [Ajith, Aniruth, Dhanush, Karthick]
+
+Is ArrayList Empty: false
+
+
+Ways to iterate the ArrayList elements --->
+
+Traversing arrList through Iterator:
+Ajith
+Aniruth
+Dhanush
+Karthick
+
+Traversing arrList through List Iterator:
+Karthick
+Dhanush
+Aniruth
+Ajith
+
+Traversing arrList through for loop:
+Ajith
+Aniruth
+Dhanush
+Karthick
+
+Traversing arrList through forEach() method:
+Ajith
+Aniruth
+Dhanush
+Karthick
+
+Traversing elements of ArrayList object:
+101 Jay Software Developer
+102 Kumar Support Engineer

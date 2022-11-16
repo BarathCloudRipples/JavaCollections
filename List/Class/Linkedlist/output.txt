@@ -1,0 +1,52 @@
+
+
+LinkedList add elements --->
+
+Initial list of elements: [Ravi, Vijay, Aniruth, Siva, Arjun, Karthick, Surya]
+
+addAll(int index, Collection<? extends E> c) method: [Ravi, Ravi, Vikram, Vijay, Aniruth, Siva, Arjun, Karthick, Surya]
+
+addFirst(E e) method: [Dhruv, Ravi, Ravi, Vikram, Vijay, Aniruth, Siva, Arjun, Karthick, Surya]
+
+addLast(E e) method: [Dhruv, Ravi, Ravi, Vikram, Vijay, Aniruth, Siva, Arjun, Karthick, Surya, Ajith]
+
+
+LinkedList remove elements ---> 
+
+remove('vijay') method: [Dhruv, Ravi, Ravi, Vikram, Aniruth, Siva, Arjun, Karthick, Surya, Ajith]
+
+remove(0) method: [Ravi, Ravi, Vikram, Aniruth, Siva, Arjun, Karthick, Surya, Ajith]
+
+removeAll(list) method: [Aniruth, Siva, Arjun, Karthick, Surya, Ajith]
+
+removeFirst() method: [Siva, Arjun, Karthick, Surya, Ajith]
+
+removeLast() method: [Siva, Arjun, Karthick, Surya]
+
+removeFirstOccurrence('Siva') method: [Arjun, Karthick, Surya]
+
+removeLastOccurrence('Arjun') method: [Karthick, Surya]
+
+
+LinkedList methods ---> 
+
+The size of the array is: 2
+
+Returning element[1]: Surya
+
+After changing the element[1]: [Karthick, Simbu]
+
+Sorted LinkedList: [Karthick, Simbu]
+
+Is LinkedList Empty: false
+
+
+Ways to iterate the LinkedList elements--->
+
+Traversing the list of elements in reverse order : 
+Simbu
+Karthick
+
+Traversing the list of User-defined objects : 
+101 Jay Software Developer
+102 Kumar Support Engineer

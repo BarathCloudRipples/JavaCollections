@@ -1,0 +1,77 @@
+
+
+List add elements --->
+
+Initial list of elements: [Vijay, Ravi, Dhruv, Vikram, Ravi, Ajith]
+
+Printing array to vector: [1, 2, 3, 4, 5]
+
+
+Vector remove elements ---> 
+
+Vector elements after remove() method  : [Vijay, Ravi, Dhruv, Vikram, Ravi, Ajith, Karthick, Aniruth]
+
+New Value list in vector: [Vijay, Ravi, Dhruv, Vikram, Ajith, Karthick, Aniruth]
+
+Vector element after removal: [1, 4, 5]
+
+
+Vector methods ---> 
+
+Size is: 7
+
+Default capacity is: 10
+
+New size is: 6
+
+New capacity is: 6
+
+Element at index 1 is = Ravi
+
+Hash code of this vector = -16829832
+
+Cloned vector: [Vijay, Ravi, Dhruv, Vikram, Ajith, Karthick]
+
+Vector to array : [Vijay, Ravi, Dhruv, Vikram, Ajith, Karthick]
+
+First element of this vector = Vijay
+
+Element in vector after insertion = [Vijay, Ravi, Kamal, Dhruv, Vikram, Ajith, Karthick]
+
+Vector element after set: [Vijay, Ravi, Kamal, Dhruv, Ravi, Ajith, Karthick]
+
+Index of element is: 4
+
+Sublist elements: [Kamal, Dhruv, Ravi, Ajith]
+
+
+Ways to iterate the Vector elements--->
+
+Traversing vector through forEach() method:
+Vijay
+Ravi
+Kamal
+Dhruv
+Ravi
+Ajith
+Karthick
+
+Iterate elements are: 
+Ravi
+Kamal
+Dhruv
+Ravi
+Ajith
+Karthick
+
+Data in enumeration object is: 
+1
+4
+5
+
+Estimated size: 3
+
+Contents of vector:
+1
+4
+5

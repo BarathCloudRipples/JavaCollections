@@ -1,0 +1,62 @@
+
+
+HashSet add elements --->
+
+Initial list of elements: [Ajith, Kamal, Ravi, Simbu, Siva, Vishal]
+
+addAll(Collection<? extends E> c) method: [Ajith, Kamal, Ravi, Simbu, Siva, Surya, Vishal]
+
+HashSet form ArrayList: [1, 2, 3, 5, 8, 10]
+
+
+HashSet remove elements ---> 
+
+remove(Surya) method: [Ajith, Kamal, Ravi, Simbu, Siva, Vishal]
+
+removeAll(subSet) method: [Ajith, Ravi, Simbu, Siva, Vishal]
+
+removeIf() method: [Ravi, Simbu, Siva, Vishal]
+
+Removed element using pollFirst() : [2, 3, 5, 8, 10]
+
+Removed element using pollLast() : [2, 3, 5, 8]
+
+
+HashSet methods ---> 
+
+The size of the treeSet is: 4
+
+Is the arrSet empty: false
+
+Ceiling value of 7 : 8
+
+lowest value then 7 : 5
+
+Does the treeSet contains 'Ravi'? : true
+
+First Element: Ravi
+
+First Element: Vishal
+
+Head Set: [Ravi, Simbu]
+
+Subset of treeSet(1,2): [Ravi, Simbu, Siva]
+
+Tail Set: [Simbu, Siva, Vishal]
+
+Synchronized Set: [Ravi, Simbu, Siva, Vishal]
+
+
+Ways to iterate the TreeSet elements --->
+
+Traversing treeSet through Iterator:
+Ravi
+Simbu
+Siva
+Vishal
+
+Traversing elements through Spliterator:
+Ravi
+Simbu
+Siva
+Vishal

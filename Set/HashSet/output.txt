@@ -1,0 +1,42 @@
+
+
+HashSet add elements --->
+
+Initial list of elements: [Five, One, Four, Two, Three]
+
+addAll(Collection<? extends E> c) method: [Five, Six, One, Four, Seven, Two, Three]
+
+HashSet form ArrayList: [Ajith, Vijay, Ravi, Simbu]
+
+
+HashSet remove elements ---> 
+
+remove(One) method: [Five, Six, Four, Seven, Two, Three]
+
+removeAll(subSet) method: [Five, Four, Two, Three]
+
+removeIf() method: [Five, Four, Two]
+
+clear() method: []
+
+
+HashSet methods ---> 
+
+The size of the hashSet is: 3
+
+Is the arrSet empty: true
+
+Does the hashSet contains 'Two'? :- true
+
+
+Ways to iterate the HashSet elements --->
+
+Traversing hashSet through Iterator:
+Five
+Four
+Two
+
+Traversing elements through Spliterator:
+Five
+Four
+Two

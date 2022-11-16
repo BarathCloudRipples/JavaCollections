@@ -1,0 +1,38 @@
+
+
+HashSet add elements --->
+
+Initial list of elements: [Ravi, Kamal, Ajith]
+
+addAll(Collection<? extends E> c) method: [Ravi, Kamal, Ajith, Surya]
+
+HashSet form ArrayList: [Karthick, Vijay, Simbu, Ajith]
+
+
+HashSet remove elements ---> 
+
+remove(Surya) method: [Ravi, Kamal, Ajith]
+
+removeAll(subSet) method: [Ravi, Ajith]
+
+removeIf() method: [Ravi]
+
+clear() method: []
+
+
+HashSet methods ---> 
+
+The size of the lHashSet is: 1
+
+Is the arrSet empty: true
+
+Does the lHashSet contains 'Ravi'? :- true
+
+
+Ways to iterate the LinkedHashSet elements --->
+
+Traversing lHashSet through Iterator:
+Ravi
+
+Traversing elements through Spliterator:
+Ravi

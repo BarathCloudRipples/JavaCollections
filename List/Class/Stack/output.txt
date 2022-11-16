@@ -1,0 +1,64 @@
+
+
+Stack add elements ---> 
+
+push -> Ravi
+stack: [Ravi]
+
+push -> Ajith
+stack: [Ravi, Ajith]
+
+push -> Kamal
+stack: [Ravi, Ajith, Kamal]
+
+push -> Vijay
+stack: [Ravi, Ajith, Kamal, Vijay]
+
+push -> Dhanush
+stack: [Ravi, Ajith, Kamal, Vijay, Dhanush]
+
+push -> Ravi
+stack: [Ravi, Ajith, Kamal, Vijay, Dhanush, Ravi]
+
+Initial list of elements: [Ravi, Ajith, Kamal, Vijay, Dhanush, Ravi]
+
+
+Stack remove elements ---> 
+
+pop -> Ravi
+stack: [Ravi, Ajith, Kamal, Vijay, Dhanush]
+
+pop -> Dhanush
+stack: [Ravi, Ajith, Kamal, Vijay]
+
+pop -> Vijay
+stack: [Ravi, Ajith, Kamal]
+
+
+Stack methods ---> 
+
+The stack size is: 3
+
+Is the stack empty? false
+
+Element at top: Kamal
+
+Index of Ajith: 2
+
+
+Ways to iterate the Stack elements--->
+
+Iteration over the stack: 
+Ravi
+Ajith
+Kamal
+
+Invoking forEach() method: 
+Ravi
+Ajith
+Kamal
+
+Iteration over the Stack from top to bottom:
+Kamal
+Ajith
+Ravi

@@ -1,0 +1,46 @@
+
+
+PriorityQueue add elements --->
+
+Initial list of elements: [Ravi, Vijay, Ravi]
+
+OfferFirst Traversal: [Dhanush, Ravi, Vijay, Ravi]
+
+OfferLast Traversal: [Dhanush, Ravi, Vijay, Ravi, Ajith]
+
+addAll(Collection<? extends E> c) method: [Dhanush, Ravi, Vijay, Ravi, Ajith, Simbu, Kamal, Aniruth]
+
+
+PriorityQueue remove elements ---> 
+
+poll() method: [Ravi, Vijay, Ravi, Ajith, Simbu, Kamal, Aniruth]
+
+pollFirst() method: [Vijay, Ravi, Ajith, Simbu, Kamal, Aniruth]
+
+pollLast() method: [Vijay, Ravi, Ajith, Simbu, Kamal]
+
+
+PriorityQueue methods ---> 
+
+Latest element using element():Vijay
+
+Latest element using peekFirst():Vijay
+
+Latest element using peekLast():Kamal
+
+
+Ways to iterate the ArrayDeque elements --->
+
+Traversing deque through for loop:
+Vijay
+Ravi
+Ajith
+Simbu
+Kamal
+
+Traversing deque through descendingIterator:
+Kamal
+Simbu
+Ajith
+Ravi
+Vijay
