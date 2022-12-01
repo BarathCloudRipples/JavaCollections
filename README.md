@@ -1,6 +1,6 @@
 ## Java Collections Framework Tutorials with Simple Examples
 
-1. [Java ArrayList Tutorial with Examples](https://www.javatpoint.com/java-arraylist/)
+1. [Java ArrayList Tutorial with Examples](https://www.javatpoint.com/java-arraylist)
 
 2. [Java LinkedList Tutorial with Examples](https://www.javatpoint.com/java-linkedlist/)
 
